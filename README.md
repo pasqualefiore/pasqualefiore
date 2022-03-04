@@ -5,7 +5,7 @@
 - 🌱 I just finished "Data science & AI" master's degree
 - 🌱 Every day is an opportunity to learn something 
 -     How to reach me: 
-      - [LinkedIn](https://www.linkedin.com/in/pasquale-fiore-432b111b8/)     
+       [LinkedIn](https://www.linkedin.com/in/pasquale-fiore-432b111b8/)     
 <!---
 pasqualefiore/pasqualefiore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
